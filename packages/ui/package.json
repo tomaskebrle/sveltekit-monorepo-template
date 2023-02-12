@@ -4,9 +4,6 @@
   "main": "./index.tsx",
   "types": "./index.tsx",
   "license": "MIT",
-  "scripts": {
-    "lint": "eslint *.ts*"
-  },
   "devDependencies": {
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
