@@ -10,7 +10,7 @@
 		"build": "turbo run build",
 		"dev": "turbo run dev",
 		"lint": "turbo run lint",
-		"prettier": "prettier --write \"**/*.{ts,tsx,md,svelte}\"",
+		"prettier": "prettier --write \"**/*.{ts,tsx,md,svelte,js,json,yaml}\"",
 		"prettier-check": "prettier --plugin-search-dir . --check ."
 	},
 	"devDependencies": {
